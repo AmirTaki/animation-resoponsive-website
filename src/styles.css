@@ -38,3 +38,7 @@ header {
     width: 100%;
     height: auto;
 }
+
+.navlist {
+    display: flex;
+}
