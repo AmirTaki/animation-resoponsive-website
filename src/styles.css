@@ -156,3 +156,10 @@ section {
     font-weight: bold;
     color: var(--text-color)
 }
+
+.price span{
+    font-size: 17px;
+    font-weight: 400;
+    color: var(--main-color);
+    margin-left: 10px
+}
