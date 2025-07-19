@@ -14,5 +14,9 @@
 
     --big-font: 6.6rem;
     --p-font: 1rem
+}
 
+body {
+    background: var(--bg-color);
+    color:var(--text-color)
 }
