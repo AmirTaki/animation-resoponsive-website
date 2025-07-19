@@ -107,6 +107,11 @@ section {
 .hero-text h1 {
     font-size: var(--big-font);
     font-weight : 900;
-    margin: 15px 0;
-    
+    margin: 15px 0;   
+}
+
+.hero-text h5 {
+    font-size:18px;
+    font-weight: 400;
+    letter-spacing: 1px;   
 }
