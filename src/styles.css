@@ -125,3 +125,8 @@ section {
     color:var(--text-color);
     margin-bottom: 40px;
 }
+
+.main-hero {
+    display: flex;
+    align-items: center;
+}
