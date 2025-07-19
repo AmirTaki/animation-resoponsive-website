@@ -50,3 +50,6 @@ header {
     font-size: var(--p-font);
     transition : all .6s ease;
 }
+.navlist a:hover {
+     color:var(--main-color)  
+} 
