@@ -104,3 +104,9 @@ section {
     width: 100%;
     height: auto;
 }
+.hero-text h1 {
+    font-size: var(--big-font);
+    font-weight : 900;
+    margin: 15px 0;
+    
+}
