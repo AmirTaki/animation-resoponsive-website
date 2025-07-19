@@ -177,3 +177,7 @@ section {
     font-size:23px;
     transition: all .6s ;
 }
+.icons i:hover {
+    transform: translateY(-5px);
+    color:var(--main-color)
+}   
