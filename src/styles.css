@@ -163,3 +163,10 @@ section {
     color: var(--main-color);
     margin-left: 10px
 }
+
+.icons {
+    position: absolute;
+    top:50%;
+    padding: 0 7%;
+    transform: translateY(-50%);   
+}
