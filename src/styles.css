@@ -170,3 +170,10 @@ section {
     padding: 0 7%;
     transform: translateY(-50%);   
 }
+.icons i {
+    display: block;
+    margin: 35px 0;
+    color: var(--text-color);
+    font-size:23px;
+    transition: all .6s ;
+}
