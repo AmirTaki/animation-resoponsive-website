@@ -181,3 +181,9 @@ section {
     transform: translateY(-5px);
     color:var(--main-color)
 }   
+.scroll {
+    position: absolute;
+    top:92%;
+    right:7%;
+    transform : translateY(-50%)
+}
