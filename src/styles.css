@@ -99,3 +99,8 @@ section {
     align-items: center;
     gap: 2rem;
 }
+
+.hero-img img {
+    width: 100%;
+    height: auto;
+}
