@@ -214,7 +214,7 @@ section {
 
 @media  (max-width : 1670px ) {
     :root{
-        --bg-font:5.5rem;
+        --big-font:5.5rem;
         --p-font:15px
     }
 }
@@ -289,5 +289,18 @@ section {
         width:100%;
         height: 100%;
         object-fit: contain;
+    }
+}
+@media(max-width : 570px){
+    .hero{
+        height: 100vh;
+    }
+    .hero-img {
+        height: 400px;
+        width:400px;
+        margin: 0 auto;  
+    }
+    :root{
+        --big-font : 4rem 
     }
 }
