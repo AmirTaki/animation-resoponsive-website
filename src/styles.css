@@ -304,3 +304,16 @@ section {
         --big-font : 4rem 
     }
 }
+@media(max-width : 440px){
+    :root {
+        --big-font:3.4rem;   
+    }
+    .hero-text h5 {
+        font-size: 15px;
+    }
+    .hero-img{
+        height: 360px;
+        width: 360px;
+        margin: 0 auto;  
+    }
+}
